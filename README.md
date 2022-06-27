@@ -11,6 +11,7 @@
         <img src="https://camo.githubusercontent.com/912a96be8fa58fb73274b30d5421530bfe93a121133e8af42734c54035df043e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d6639643634652e7376673f6c6f676f3d707974686f6e267374796c653d666c6174"/>
     </a>
 </p>
+
 - 🔭 I’m currently working on Green Stock
 - 🌱 I’m currently learning **Computer Science**
 - 👯 I’m looking to collaborate on **ProtonX**
