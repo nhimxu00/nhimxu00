@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on **ProtonX**
 - 🤔 I’m looking for help with my learning and development AI.
 - 💬 Ask me about : Ask me anything you want
-- 📫 How to reach me:  [Facebook](https://www.facebook.com/NhimXoanXu) or [Email](minhtd9a@gmail.com).
+- 📫 How to reach me:  [Facebook](https://www.facebook.com/NhimXoanXu) or [Email](minhtd9a@gmail.com) or [Linkedin](https://www.linkedin.com/in/minh-ho%C3%A0ng-831294178/).
 - 😄 Pronouns: nhimxu
 
 ![Hoàng Cao Minh GitHub stats](https://github-readme-stats.vercel.app/api?username=nhimxu00&show_icons=true&theme=radical)
