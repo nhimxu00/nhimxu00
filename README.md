@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate on **ProtonX**
 - 🤔 I’m looking for help with my learning and development AI.
 - 💬 Ask me about : Ask me anything you want
-- 📫 How to reach me:  [Facebook](https://www.facebook.com/NhimXoanXu) , [Email](minhtd9a@gmail.com) or [Linkedin](https://www.linkedin.com/in/minh-ho%C3%A0ng-831294178/).
-- 😄 Pronouns: nhimxu
+- 📫 How to reach me:  **[Facebook](https://www.facebook.com/NhimXoanXu) , [Email](minhtd9a@gmail.com) or [Linkedin](https://www.linkedin.com/in/minh-ho%C3%A0ng-831294178/)**.
+- 😄 Pronouns: **Nhim Xu**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhimxu00&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
