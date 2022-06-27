@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Hoàng Cao Minh GitHub stats](https://github-readme-stats.vercel.app/api?username=nhimxu00&show_icons=true&theme=radical)
-!https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif
+https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif
 <!--
 **nhimxu00/nhimxu00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
