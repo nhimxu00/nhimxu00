@@ -1,4 +1,4 @@
-### Hi everyone 👋
+### Hi there 👋
 <img src="https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif"/>
 <p>
     <a href="#">
@@ -12,7 +12,7 @@
     </a>
 </p>
 
-- 🔭 I’m currently working on Green Stock
+- 🔭 I’m currently working on **Green Stock**
 - 🌱 I’m currently learning **Computer Science**
 - 👯 I’m looking to collaborate on **ProtonX**
 - 🤔 I’m looking for help with my learning and development AI.
