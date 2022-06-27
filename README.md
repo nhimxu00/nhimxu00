@@ -1,5 +1,6 @@
 ### Hey! 👋 
-I'm **Hoàng Cao Minh**, my dream is to become an **artificial intelligence engineer.**
+
+#### I'm **Hoàng Cao Minh**, my dream is to become an **Artificial Intelligence Engineer.**
 <img src="https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif"/>
 <!-- <p>
     <a href="#">
