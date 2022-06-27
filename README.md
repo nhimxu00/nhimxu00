@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey! 👋 
+
 <img src="https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif"/>
 <!-- <p>
     <a href="#">
@@ -21,7 +22,7 @@
 - 👯 I’m looking to collaborate on **ProtonX**
 - 🤔 I’m looking for help with my learning and development AI.
 - 💬 Ask me about : Ask me anything you want
-- 📫 How to reach me: minhtd9a@gmail.com
+- 📫 How to reach me:  [Facebook](https://www.facebook.com/NhimXoanXu) or [Email](minhtd9a@gmail.com).
 - 😄 Pronouns: nhimxu
 
 ![Hoàng Cao Minh GitHub stats](https://github-readme-stats.vercel.app/api?username=nhimxu00&show_icons=true&theme=radical)
