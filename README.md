@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif"/>
-<p>
+<!-- <p>
     <a href="#">
         <img src="https://camo.githubusercontent.com/fd1f1d74853ae3fa92e4f8c740147cc0899d43efc23bf371f37802305803e282/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d6161346330302e7376673f6c6f676f3d74656e736f72666c6f77267374796c653d666c6174"/>
     </a>
@@ -10,7 +10,11 @@
     <a href="#">
         <img src="https://camo.githubusercontent.com/912a96be8fa58fb73274b30d5421530bfe93a121133e8af42734c54035df043e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d6639643634652e7376673f6c6f676f3d707974686f6e267374796c653d666c6174"/>
     </a>
-</p>
+</p> -->
+<div style="clear:both; width: 100%;"> 
+<img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&style=flat"> <img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/HTML5-222222.svg?logo=html5&style=flat">
+ <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&style=flat"> <img src="https://img.shields.io/badge/javascript-3577c4.svg?logo=javascript&style=flat"> <img src="https://img.shields.io/badge/TensorFlow-aa4c00.svg?logo=tensorflow&style=flat"> <img src="https://img.shields.io/badge/PyTorch-f9d64e.svg?logo=pytorch&style=flat"> <img src="https://img.shields.io/badge/OpenCV-FF0000.svg?logo=opencv&style=flat"> <img src="https://img.shields.io/badge/Qt-222222.svg?logo=qt"> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?logo=Raspberry%20Pi&style=flat"> <img src="https://img.shields.io/badge/Jetson-blue.svg?logo=NVIDIA&style=flat"> <img src="https://img.shields.io/badge/Android-0000FF.svg?logo=android&style=flat"> <img src="https://img.shields.io/badge/-Docker-222222.svg?logo=docker&style=flat"> <img src="https://img.shields.io/badge/-Flutter-222222.svg?logo=flutter&style=flat"> <img src="https://komarev.com/ghpvc/?username=vietanhdev"> 
+ </div>
 
 - 🔭 I’m currently working on **Green Stock**
 - 🌱 I’m currently learning **Computer Science**
