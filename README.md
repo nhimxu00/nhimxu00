@@ -20,8 +20,6 @@
  
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhimxu00&theme=solarized)
  
- ![Hoàng Cao Minh GitHub stats](https://github-readme-stats.vercel.app/api?username=nhimxu00&show_icons=true&theme=radical)
-
 - 🔭 I’m currently working on **Green Stock**
 - 🌱 I’m currently learning **Computer Science**
 - 👯 I’m looking to collaborate on **ProtonX**
@@ -30,4 +28,5 @@
 - 📫 How to reach me:  **[Facebook](https://www.facebook.com/NhimXoanXu) , [Email](minhtd9a@gmail.com) or [Linkedin](https://www.linkedin.com/in/minh-ho%C3%A0ng-831294178/)**.
 - 😄 Pronouns: **Nhim Xu**
 
+![Hoàng Cao Minh GitHub stats](https://github-readme-stats.vercel.app/api?username=nhimxu00&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhimxu00&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
