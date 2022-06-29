@@ -18,6 +18,8 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&style=flat"> <img src="https://img.shields.io/badge/javascript-3577c4.svg?logo=javascript&style=flat"> <img src="https://img.shields.io/badge/TensorFlow-aa4c00.svg?logo=tensorflow&style=flat"> <img src="https://img.shields.io/badge/PyTorch-f9d64e.svg?logo=pytorch&style=flat"> <img src="https://img.shields.io/badge/OpenCV-FF0000.svg?logo=opencv&style=flat"> <img src="https://img.shields.io/badge/Qt-222222.svg?logo=qt"> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?logo=Raspberry%20Pi&style=flat"> <img src="https://img.shields.io/badge/Jetson-blue.svg?logo=NVIDIA&style=flat"> <img src="https://img.shields.io/badge/Android-0000FF.svg?logo=android&style=flat"> <img src="https://img.shields.io/badge/-Docker-222222.svg?logo=docker&style=flat"> <img src="https://komarev.com/ghpvc/?username=vietanhdev"> 
  </div>
  
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhimxu00&theme=solarized)
+ 
  ![Hoàng Cao Minh GitHub stats](https://github-readme-stats.vercel.app/api?username=nhimxu00&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on **Green Stock**
