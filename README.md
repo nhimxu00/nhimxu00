@@ -8,7 +8,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhimxu00&theme=solarized)
  
 - 🌱 I’m currently learning **Computer Science**
-- 👯 I’m looking to collaborate on **ProtonX**
+- 👯 I’m looking to collaborate on **[ProtonX](https://protonx.io/)**
 - 📫 How to reach me:  **[Facebook](https://www.facebook.com/NhimXoanXu) , [Email](minhtd9a@gmail.com) or [Linkedin](https://www.linkedin.com/in/minh-ho%C3%A0ng-831294178/)**.
 - 😄 Pronouns: **Nhim Xu**
 
